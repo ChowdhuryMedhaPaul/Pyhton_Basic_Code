@@ -1,0 +1,7 @@
+print("Medha Paul")
+print('Medha Paul')
+print(' | | |')
+print("*"*10)
+print("0====")
+print(10*10)
+print(10.23)
